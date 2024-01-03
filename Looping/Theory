@@ -1,0 +1,8 @@
+for loop : is used when range is given;
+while loop : is used when range is not given;
+do while loop : is use for menu driven programming;
+nested for loop:
+
+for() {    :Rows
+    for()  :cols
+}
