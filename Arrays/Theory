@@ -1,0 +1,17 @@
+Array : 
+    -Collect similar type of data type of value or object.
+    -collection of finite, ordered and collection of homogeous data item.
+        -Finite : fixed size
+        -Ordered : data is stored in order(If first memory address is know then you can find next easy)
+        -homogeous : (int, float, char) only
+    -length fetch arr length
+    -legth() fetch string length
+
+    Types of array:
+        -One dimensional array :
+            syntax : int arr[] = new int[5];
+            
+
+
+Interface : 
+    Marker interface : Empty no code interface.        
