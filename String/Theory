@@ -1,0 +1,11 @@
+s.endsWith();
+s.startWith();
+s.length();
+s.equals();     
+s.equalsIgnoresCase();
+s.toLowerCase();
+to.upperCase();
+s.trim();
+s.replace();
+s.substring();
+s.getBytes
