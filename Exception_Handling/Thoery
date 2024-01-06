@@ -1,0 +1,9 @@
+Exception Handling :
+    -The process of catching the exception for converting JVM exception message to end user readable message.
+    -Catching this abnormal termination of the programm is know as Exception Handling.
+    -To stop the abnormal termination
+    -There are two types of exception handling
+        1. Compile time error : Error before the compilation.
+        2. Run time error : These error are know as exceptions. Catching this abnormal termination of the programm is know as Exception Handling
+
+    
